@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Kaung Zin Thant!
+# 👋 Hi there, I'm Kaung Zin Thant or you can call me Leon!
 
 ![Profile Banner](https://i.pinimg.com/736x/d9/bf/02/d9bf02ca16e5b2e7b67397822a05ddaf.jpg)
 
@@ -9,7 +9,7 @@ I'm a passionate **Computer Science** student and an aspiring **developer** from
 - **Languages**: JavaScript, Python, HTML, CSS
 - **Frameworks**: React, Bootstrap
 - **Tools**: Git, GitHub, Visual Studio Code
-- **Other Skills**: IT support, project management, UX/UI design
+- **Other Skills**: Huge Gamer, Blender
 
 ---
 
