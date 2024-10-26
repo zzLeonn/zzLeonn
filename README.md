@@ -16,14 +16,14 @@ I'm a passionate **Computer Science** student and an aspiring **developer** from
 ## 🚀 My Projects
 Here are some of my recent projects:
 
-1. **[TuneText]**  
-   A music lyric finder app with user authentication and a clean UI.
+1. **[Stress Prediction Algorithm]**  
+   Using machine learning algorithm to predict stress levels in teenagers using a dataset.
 
 2. **[BabyBuy]**  
    An Android app helping parents create a shopping list for baby essentials.
 
-3. **[Circu.it]**  
-   An app designed to assist users in assembling custom PC components.
+3. **[TuneText]**  
+   A music lyric finder app with user authentication and a clean UI.
 
 ---
 
@@ -31,13 +31,14 @@ Here are some of my recent projects:
 I'm currently diving into:
 - Machine Learning
 - Data Streaming Technologies
-- Advanced JavaScript Concepts
+- Full Stack
 
 ---
 
 ## 🤝 Let's Connect
-- [LinkedIn](link_to_your_linkedin)
-- [Twitter](link_to_your_twitter)
+- [LinkedIn](www.linkedin.com/in/kaung-zin-thant-736843244)
+- [Facebook]()
+- [Instagram](link_to_your_twitter)
 
 ---
 
