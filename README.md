@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Kaung Zin Thant!
 
-![Profile Banner]([https://www.canva.com/design/DAGMI5XQMM4/xS2eMXKg-i-MM0Uw7Sje3A/view?utm_content=DAGMI5XQMM4&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.google.com/url?sa=i&url=https%3A%2F%2Fplaceit.net%2Fc%2Fdesign-templates%2Fstages%2Fspiderman-inspired-twitch-profile-banner-maker-featuring-ai-generated-graphics-5825d-5953&psig=AOvVaw0bekbL6y_u0gvfktf3F_1b&ust=1730017740100000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDPz7fQq4kDFQAAAAAdAAAAABAE))
+![Profile Banner](https://i.pinimg.com/736x/d9/bf/02/d9bf02ca16e5b2e7b67397822a05ddaf.jpg)
 
 ## 🌟 About Me
 I'm a passionate **Computer Science** student and an aspiring **developer** from Myanmar. I love exploring new technologies, coding, and working on innovative projects!
