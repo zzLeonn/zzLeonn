@@ -21,7 +21,7 @@ I'm a passionate **Computer Science** student and an aspiring **developer** from
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonZt19&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zzLeonn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzLeonn&layout=compact&theme=radical&langs_count=8"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zzLeonn&theme=radical" alt="GitHub Streak"/>
 </div>
@@ -66,7 +66,7 @@ I'm currently diving into:
 ---
 
 ### 🎮 Current Gaming Obsession
-<img src="https://img.shields.io/badge/Overwatch-FF9B00?style=for-the-badge&logo=blizzard&logoColor=white" /> <img src="https://img.shields.io/badge/Valorant-FF4655?style=for-the-badge&logo=riotgames&logoColor=white" />
+<img src="https://img.shields.io/badge/Dota_2-FF9B00?style=for-the-badge&logo=steam&logoColor=white" /> <img src="https://img.shields.io/badge/CS:GO-000000?style=for-the-badge&logo=steam&logoColor=white" /> <img src="https://img.shields.io/badge/Overwatch-FF9B00?style=for-the-badge&logo=blizzard&logoColor=white" /> <img src="https://img.shields.io/badge/League_of_Legends-002366?style=for-the-badge&logo=leagueoflegends&logoColor=white" />
 
 ---
 
