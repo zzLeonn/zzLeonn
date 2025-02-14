@@ -1,30 +1,27 @@
-name: Generate Contribution Snake
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
-  workflow_dispatch: 
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+  workflow_dispatch:
 
 jobs:
-  generate-snake:
+  generate:
     runs-on: ubuntu-latest
     steps:
       - name: Generate Light Snake
-        uses: Platane/snk@v3
+        uses: Platane/snk@master
         with:
           github_user_name: zzLeonn
-          svg_output_path: output/github-contribution-grid-snake.svg
-
+          args: "--output output/github-contribution-grid-snake.svg"
+          
       - name: Generate Dark Snake
-        uses: Platane/snk@v3
+        uses: Platane/snk@master
         with:
           github_user_name: zzLeonn
-          svg_output_path: output/github-contribution-grid-snake-dark.svg
-          color_snake: "#2d333b"
-          color_dots: "#768390"
-          color_lines: "#444c56"
+          args: "--output output/github-contribution-grid-snake-dark.svg --colors.snake #363636 --colors.dots #767676 --colors.lines #525252"
 
-      - name: Push to Repository
+      - name: Commit Files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update contribution snake"
