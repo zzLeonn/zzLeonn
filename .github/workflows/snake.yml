@@ -1,0 +1,38 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Light Snake
+        uses: Platane/snk@master
+        with:
+          github_user_name: zzLeonn
+          args: "--output output/github-contribution-grid-snake.svg"
+
+      - name: Generate Dark Snake
+        uses: Platane/snk@master
+        with:
+          github_user_name: zzLeonn
+          args: "--output output/github-contribution-grid-snake-dark.svg --colors.snake 363636 --colors.dots 767676 --colors.lines 525252"
+
+      - name: Create Output Directory
+        run: mkdir -p output
+
+      - name: Commit Files
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update contribution snake"
+          file_pattern: output/*
+          commit_user_name: GitHub Actions
+          commit_user_email: actions@github.com
