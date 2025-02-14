@@ -28,6 +28,8 @@ I'm a passionate **Computer Science** student and an aspiring **developer** from
 
 ---
 
+[![An image of @zzleonn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zzleonn)](https://holopin.io/@zzleonn)
+
 ## 🚀 My Projects
 Here are some of my recent projects:
 
