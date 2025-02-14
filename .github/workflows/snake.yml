@@ -1,0 +1,31 @@
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" 
+  workflow_dispatch: 
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Light Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: zzLeonn
+          svg_output_path: output/github-contribution-grid-snake.svg
+
+      - name: Generate Dark Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: zzLeonn
+          svg_output_path: output/github-contribution-grid-snake-dark.svg
+          color_snake: "#2d333b"
+          color_dots: "#768390"
+          color_lines: "#444c56"
+
+      - name: Push to Repository
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update contribution snake"
+          file_pattern: output/*
