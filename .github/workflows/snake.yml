@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  
   workflow_dispatch:
 
 jobs:
@@ -11,23 +11,17 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Light Snake
-        uses: Platane/snk@master
-        with:
-          github_user_name: zzLeonn
-          args: "--output output/github-contribution-grid-snake.svg"
+        run: |
+          mkdir -p output
+          curl -o output/github-contribution-grid-snake.svg \
+            "https://raw.githubusercontent.com/Platane/snk/output/github-contribution-snake.svg?user=zzLeonn"
 
       - name: Generate Dark Snake
-        uses: Platane/snk@master
-        with:
-          github_user_name: zzLeonn
-          args: "--output output/github-contribution-grid-snake-dark.svg --colors.snake 363636 --colors.dots 767676 --colors.lines 525252"
-
-      - name: Create Output Directory
-        run: mkdir -p output
+        run: |
+          curl -o output/github-contribution-grid-snake-dark.svg \
+            "https://raw.githubusercontent.com/Platane/snk/output/github-contribution-snake-dark.svg?user=zzLeonn"
 
       - name: Commit Files
         uses: stefanzweifel/git-auto-commit-action@v4
