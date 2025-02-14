@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Kaung Zin Thant or you can call me Leon!
 
 ![Profile Banner](https://i.pinimg.com/736x/d9/bf/02/d9bf02ca16e5b2e7b67397822a05ddaf.jpg)
-![GitHub Snake Light](https://raw.githubusercontent.com/LeonZt19/LeonZt19/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/LeonZt19/LeonZt19/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://raw.githubusercontent.com/zzLeonn/zzLeonn/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/zzLeonn/zzLeonn/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ## 🌟 About Me
 I'm a passionate **Computer Science** student and an aspiring **developer** from Myanmar. I love exploring new technologies, coding, and working on random websites.
@@ -22,8 +22,8 @@ I'm a passionate **Computer Science** student and an aspiring **developer** from
 ## 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonZt19&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonZt19&layout=compact&theme=radical&langs_count=8"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonZt19&theme=radical" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzLeonn&layout=compact&theme=radical&langs_count=8"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zzLeonn&theme=radical" alt="GitHub Streak"/>
 </div>
 
 ---
