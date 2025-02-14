@@ -23,7 +23,7 @@ I'm a passionate **Computer Science** student and an aspiring **developer** from
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zzLeonn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzLeonn&layout=compact&theme=radical&langs_count=8"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zzLeonn&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=zzLeonn&theme=radical" alt="GitHub Streak"/>
 </div>
 
 ---
