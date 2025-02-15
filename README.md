@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Kaung Zin Thant or you can call me Leon!
 
 ![Profile Banner](https://i.pinimg.com/736x/d9/bf/02/d9bf02ca16e5b2e7b67397822a05ddaf.jpg)
-![GitHub Snake Light](https://raw.githubusercontent.com/zzLeonn/zzLeonn/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![snake gif](https://github.com/zzLeonn/zzLeonn/blob/output/github-snake-dark.svg)
+![Snake Light](https://github.com/zzLeonn/zzLeonn/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake Dark](https://github.com/zzLeonn/zzLeonn/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ## 🌟 About Me
 I'm a passionate **Computer Science** student and an aspiring **developer** from Myanmar. I love exploring new technologies, coding, and working on random websites.
