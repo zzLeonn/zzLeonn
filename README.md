@@ -7,7 +7,7 @@
 ![Snake Dark](https://github.com/zzLeonn/zzLeonn/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 
 ## 🌟 About Me
-I'm a passionate **Computer Science** student and an aspiring **developer** from Myanmar. I love exploring new technologies, coding, and working on random websites.
+I'm a **Computer Science** student and an aspiring **developer** from Myanmar. I love exploring new technologies, coding, and working on random websites.
 
 ### 🔧 Technologies & Skills
 <div align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
